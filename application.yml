@@ -1,0 +1,3 @@
+# common config for all apps
+remote:   
+  portalHome: mdds-portal-app 
