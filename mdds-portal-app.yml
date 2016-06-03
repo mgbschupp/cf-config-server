@@ -1,5 +1,4 @@
 remote:   
-  portalHome: mdds-portal-app 
   authorization:
     roles:
       ROLE_A:
