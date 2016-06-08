@@ -4,7 +4,7 @@ remote:
       ROLE_A:
         -
           permission: PERM_EAT_ME
-          params: [1, 2, 3]
+          params: [1, 2, 3,4]
         -
           permission: PERM_EAT_YOU
           params: [4, 5, 6]
