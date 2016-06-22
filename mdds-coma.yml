@@ -1,0 +1,9 @@
+remote:   
+  authorization:
+    roles:
+      sgAplMGBMddsComaAdmin:
+        -
+          permission: PERM_ADMIN
+      sgAplMGBMddsComaMonitor:
+        -
+          permission: PERM_MONITOR
