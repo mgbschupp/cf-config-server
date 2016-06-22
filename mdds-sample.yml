@@ -3,13 +3,8 @@ remote:
     roles:
       sgOrgMGB:
         -
-          permission: PERM1
+          permission: PERM_VIEW_TLV
           params: [1, 2, 3]
         -
-          permission: PERM2
+          permission: PERM_VIEW_OTHER_TLV
           params: [4, 5, 6]
-      ROLE_B:
-        -
-          permission: PERM1
-          params: [11, 22, 33]
-  
