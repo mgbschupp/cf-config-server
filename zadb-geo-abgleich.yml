@@ -1,0 +1,6 @@
+remote:   
+  authorization:
+    roles:
+      sgAplMGBMddsZadbGeoAbgleich:
+        -
+          permission: PERM_ACCESS
